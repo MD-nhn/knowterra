@@ -9,19 +9,27 @@ body {
   padding: 0;
 }
 
-.welcome-text {
-  text-align: center:
-  margin-top: 20px;
-  font-size: 2rem:
-  }
 header {
   text-align: center;
   padding: 3rem;
   background: linear-gradient(to right, #1e3a8a, #4f46e5);
 }
 
+.hero-section {
+  text-align: center;
+  margin-top: 40px;
+}
+
 .logo {
-  width: 80px;
+  width: 120px; /* Adjust as needed */
+  display: block;
+  margin: 0 auto;
+}
+
+.welcome-text {
+  font-size: 2rem;
+  margin-top: 20px;
+  text-align: center;
 }
 
 .tagline {
